@@ -20,6 +20,7 @@ I also have experience with HTML, CSS, JavaScript.
   <img align="center" alt="JF-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JF-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JF-DJANGO" height="30" width="40" src="https://devicons.io/devicons/icons/django-icon.svg">
 </div>
 
 
